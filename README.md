@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/firebase-admin.svg)](https://pypi.org/project/firebase-admin/)
 [![Version](https://img.shields.io/pypi/v/firebase-admin.svg)](https://pypi.org/project/firebase-admin/)
 
-# Firebase Admin Python SDK
+# Firebase Admin Python SDK    
 
 ## Table of Contents
 
